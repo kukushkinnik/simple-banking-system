@@ -1,5 +1,6 @@
 ## Simple Banking System 
 Build with use of Gradle and SQLite with JDBC
+<br>
 What it can do:
 1) Generating card number according to Luhn algorithm
 2) Generating pin for a card
