@@ -121,11 +121,7 @@ public class BankingS {
         DB.deleteAcc(cardNum);
     }
 
-    public void transfer(String cardNumberTo, int amount) {
-
-        //TODO(nik):can make to do all the works and make helper methods as private
-
-    }
+ 
 
     public String getCardNum() {
         return this.cardNum;
